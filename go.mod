@@ -2,7 +2,4 @@ module github.com/mateusprado/command-line-refactored
 
 go 1.13
 
-require (
-	github.com/Pallinder/go-randomdata v1.2.0
-	golang.org/x/text v0.3.2 // indirect
-)
+require github.com/mateusprado/shipping v0.0.0-20200224174742-40b28b21ab20
